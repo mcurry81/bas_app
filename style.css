@@ -1,0 +1,24 @@
+.deadlines{
+    text-align: left;
+    float: right;
+    width: 38%;
+    background: white;
+    border: outset white;
+    border-radius: 8px;
+    padding: 1em;
+}
+
+p.dead{
+    color: red;
+    font-weight: bold;
+}
+
+.container{
+    margin: 10% 10% 10% 10%;
+    padding: 10%;
+}
+
+.error{
+    color: #ff0000;
+
+}

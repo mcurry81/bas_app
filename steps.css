@@ -1,0 +1,24 @@
+body{
+   font-size: 150%;
+}
+
+.ui-accordion-header{
+   background: #8cb078;
+}
+
+h1{
+   padding-left: 100px;
+   color: green;
+}
+
+h2{
+   color: red;
+   font-weight: bold;
+}
+
+.container{
+   padding-top: 25px;
+   padding-right: 100px;
+   padding-bottom: 25px;
+   padding-left: 100px;
+}
